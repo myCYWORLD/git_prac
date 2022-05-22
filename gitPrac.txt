@@ -1,1 +1,5 @@
-public static void 
+public class gitPrac {
+	public static void main(String [] args) {
+		System.out.println("hi this is my territory named CYWORLD welcome to my place")
+	}
+}
